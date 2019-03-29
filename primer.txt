@@ -1,0 +1,6 @@
+We're going to build a math library!
+How would it be structured?
+Maybe some functions?
+Sure.
+What about objects?
+Geometry objects, for sure.
